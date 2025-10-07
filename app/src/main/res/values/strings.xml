@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Clyde</string>
+    <string name="logo">logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="register">REGISTER</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name (Optional)</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number (Optional)</string>
+    <string name="submit">Submit</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location_permission_denied">Location Permission Denied</string>
+    <string name="permission_rationale_location">Location Permission Has Been Previously Denied.\nChange Location Permission Setting?</string>
+    <string name="permission_required_toast">Location Permission Required</string>
+    <string name="site_selection">Site Selection</string>
+    <string name="mode">Guided by Clyde</string>
+    <string name="historical_sites">Historical Sites</string>
+    <string name="parks">Parks</string>
+    <string name="tour_guide_mode">Tour Guide Mode</string>
+    <string name="guided_by_clyde">Guided By Clyde</string>
+    <string name="start_tour">Start Tour</string>
+    <string name="end_tour">End Tour</string>
+    <string name="get_help">Contact Developers</string>
+    <string name="trip_type">Trip Type</string>
+    <string name="round_trip">Round\n Trip</string>
+    <string name="site_name">Site Name</string>
+    <string name="lattitude_longitude">Lattitude, Longitude</string>
+    <string name="log_out">Log Out</string>
+    <string name="number_of_visits">Number of Visits</string>
+</resources>
